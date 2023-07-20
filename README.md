@@ -1,5 +1,5 @@
 <h2>Tindog</h2>
-This is a website which is focused on creating a website which is catered towards the online dating of dogs.
+This is a sample website catered towards the online dating of dogs.
 
 <h3>Tech Stack</h3>
 The website uses HTML, CSS and Bootstrap
